@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.button {
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 700;
+  color: #c4c4c4;
+  background-color: #382f5a;
+  width: 160px;
+  border: 1px solid #c4c4c4;
+  border-radius: 4px;
+}
+
+.order {
+  list-style-type: none;
+  margin-top: 12px;
+  margin-right: 24px;
+  margin-bottom: 12px;
+}
